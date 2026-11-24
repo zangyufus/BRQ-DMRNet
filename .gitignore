@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Agent workspace metadata
+.workbuddy/
+
+# Local datasets (the directory is kept, its contents are not)
+data/*
+!data/.gitkeep
